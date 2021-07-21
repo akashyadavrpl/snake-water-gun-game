@@ -9,4 +9,4 @@ This is a very basic game developed by me in my 2nd semester of my engineering. 
 * While leaning condictional statements developing this game it's a good expriance.
 * I used codeBlocks IDE for making this game.
 
-
+![Game Output](https://github.com/ay36808/snake-water-gun-game/blob/main/snake-water-gun-1.jpg)
